@@ -1,6 +1,6 @@
 # _Jheizon Brhylle Dela Cruz_
 
-Hi 👋, I am an _**aspiring fullstack developer**_!
+Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**!
 
 ## 🔭 
 

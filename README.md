@@ -1,16 +1,19 @@
-## Hi there 👋
+# _Jheizon Brhylle Dela Cruz_
 
-<!--
-**Brhylle/Brhylle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I am an _**aspiring fullstack developer**_!
 
-Here are some ideas to get you started:
+## 🔭 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱
+
+## 🏗️ Tech Stack
+
+<! --
+Programming Languages: The core languages used, like JavaScript, Python, Java, etc.
+Frameworks: Frameworks built on top of languages that provide structure, such as Vue.js, React, Django, Flask, etc.
+Libraries: Additional tools or packages that extend functionality, like Axios for HTTP requests, Lodash for utilities, etc.
+Databases: The systems used to store and manage data, like MySQL, PostgreSQL, MongoDB, etc.
+Tools & Platforms: Technologies used for version control, deployment, and build processes like Git, Webpack, Docker, or cloud platforms (e.g., Vercel, AWS).
+Other Services: APIs, third-party services, CI/CD pipelines, etc.
+
 -->

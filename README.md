@@ -2,9 +2,9 @@
 
 Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**!
 
-## 🔭 
+## 🔭 Projects
 
-## 🌱
+## 🌱 Explore
 
 ## 🏗️ Tech Stack
 

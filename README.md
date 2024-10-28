@@ -2,20 +2,11 @@
 # _Jheizon Brhylle Dela Cruz_
 ## 🙋🏻‍♂️ Introduction
 ### Hi, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these roles:
-<ol>
-   <li><b>Fullstack Developer</b></li>
-   <ol>
-      <li><i>Frontend Developer</i></li>
-         <ol>
-            <li>User Interface Development</li>
-            <li>User Experience Development</li>
-         </ol>
-      <li><i>Backend Developer</i></li>
-   </ol>
-   <li><b>Machine Learning Enthusiast</b></li>
-   <li><b>Graphic Designer</b></li>
-   
-</ol>
+| **Frontend**      |             |             |             |            |            |
+|-------------------|-------------|-------------|-------------|------------|------------|
+| ![vue.js](https://vuejs.org/images/logo.png) | ![tailwindcss](https://mwop.net/images/tailwindcss.svg) | ![daisyui](https://avatars.githubusercontent.com/u/76870092?s=200&v=4) | ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png) | ![css](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png) | ![js](https://bc.team/wp-content/uploads/2019/06/Javascript.png) |
+| VueJS            | TailwindCSS | DaisyUI     | HTML        | CSS        | Javascript |
+
 
 ---
 

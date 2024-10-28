@@ -103,6 +103,7 @@ These are the project(s) created chronologically:<br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65" alt="ReactJS"></td>
       <td><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="65" alt="Next.js"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" width="65" alt="Nuxt.js"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" width="65" alt="Typescript"></td>
    </tr>
 </table>
 
@@ -163,6 +164,7 @@ These are the project(s) created chronologically:<br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" width="65" alt="fedora"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" width="65" alt="linux"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="65" alt="docker"></td>
+      
    </tr>
 </table>
 

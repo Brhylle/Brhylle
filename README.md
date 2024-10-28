@@ -14,7 +14,15 @@
 
 ## 🔭 Projects
 ### These are my ongoing project(s):
-[AquaGrade AI](https://github.com/Brhylle/AquaGrade)
+<table>
+   <th colspan=1>Ongoing Projects</th>
+   <tr>
+      <td>AquaGrade AI</td>
+   </tr>
+   <tr>
+      <td><img src=""></td>
+   </tr>
+</table>
 ---
 
 ## 🌱 Explore

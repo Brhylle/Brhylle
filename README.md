@@ -24,7 +24,7 @@ These are my ongoing project(s):
       <td>AquaGrade AI</td>
    </tr>
    <tr>
-      <td><img src=""></td>
+      <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png"></a></td>
    </tr>
 </table>
 ---

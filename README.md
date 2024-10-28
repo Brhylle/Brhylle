@@ -1,3 +1,4 @@
+
 # _Jheizon Brhylle Dela Cruz_
 ## 🙋🏻‍♂️ Introduction
 ### Hi, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these roles:
@@ -36,7 +37,7 @@
 
 ## 🏗️ Tech Stack
 <!-- Frontend --> 
-<table style="width: 100%; margin-bottom: 20px;">
+<table style="width: 100%; margin-bottom: 20px; border-collapse: collapse; border: none;">
    <tr>
       <td colspan="6" style="text-align: center;"><b><i>Frontend</i></b></td>
    </tr>
@@ -56,10 +57,8 @@
       <td style="text-align: center; vertical-align: middle;">CSS</td>
       <td style="text-align: center; vertical-align: middle;">Javascript</td>
    </tr>
-   <tr>
-
-   </tr>
 </table>
+
 <!-- Backend --> 
 <table style="width: 100%; margin-bottom: 20px;">
    <tr>

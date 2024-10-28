@@ -19,15 +19,38 @@
 
 ## 🏆 Git Achievements & Stats
 
-<p>These are<i><b> the achievements and statistics accumulated over time</b></i> by contributing to open-sourced repositories.</p><br>
+## 🏆 Git Achievements & Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
+<p>These are <i><b>the achievements and statistics accumulated over time</b></i> by contributing to open-sourced repositories.</p><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Brhylle&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- GitHub Trophies -->
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=darkhub" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=flat" media="(prefers-color-scheme: light)">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=flat" alt="GitHub Trophies">
+</picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&theme=dark)
+<!-- GitHub Streak Stats -->
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=Brhylle&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)">
+  <source srcset="https://streak-stats.demolab.com?user=Brhylle&theme=light&hide_border=true" media="(prefers-color-scheme: light)">
+  <img src="https://streak-stats.demolab.com?user=Brhylle&theme=light&hide_border=true" alt="GitHub Streak">
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brhylle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&theme=default" alt="GitHub Stats">
+</picture>
+
+<!-- Most Used Languages -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhylle&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhylle&layout=compact&theme=default" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhylle&layout=compact&theme=default" alt="Top Languages">
+</picture>
+
 
 ---
 

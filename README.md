@@ -1,6 +1,6 @@
 # _Jheizon Brhylle Dela Cruz_
 
-Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these roles:
+### Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these roles:
 <ol>
    <li><b>Fullstack Developer</b></li>
    <ol>
@@ -19,12 +19,14 @@ Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I
 ---
 
 ## Trophies
+### These are the accumulative achievements by contributing to open-sourced repositories.
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=light)
 
 ---
 
 ## 🔭 Projects
 ### These are my ongoing project(s):
+
 
 ## 🌱 Explore
 

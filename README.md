@@ -81,6 +81,19 @@ These are the project(s) created chronologically:<br>
 
 ### These are the technologies and tools I am currently exploring and playing with:<br>
 
+<table>
+   <tr colspan="3">
+      <td><b>Technologies Under Exploration...</b></td>
+   </tr>
+   <tr>
+      <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Laravel Inertia"></td>
+      <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Shadcn"></td>
+      <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="ReactJS"></td>
+      <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Next.js"></td>
+      <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Nuxt.js"></td>
+   </tr>
+</table>
+
 ---
 
 ## 🏗️ Tech Stack/Toolkit

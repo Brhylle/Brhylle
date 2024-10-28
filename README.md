@@ -82,4 +82,6 @@ Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**!
      <td style="text-align: center; vertical-align: middle;">Blender 3D</td>
    </tr>
 </table>
+
+![Trophy]https://github-profile-trophy.vercel.app/?username=Brhylle&theme=light
 ---

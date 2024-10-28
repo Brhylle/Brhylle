@@ -32,8 +32,6 @@
 
 ---
 
-> Toggle between [Light Mode](#-light-mode) and [Dark Mode](#-dark-mode) manually.
-
 
 ## 🔭 Projects
 

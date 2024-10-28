@@ -1,3 +1,4 @@
+<div align="center">
 <h1>Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction</h2>
 
@@ -18,8 +19,8 @@
 
 <!-- GitHub Trophies -->
 <picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox_light" media="(prefers-color-scheme: light)">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox&margin-w=8&margin-h=15" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox_light&margin-w=8&margin-h=15" media="(prefers-color-scheme: light)">
   <img src="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=flat" alt="GitHub Trophies">
 </picture>
 
@@ -82,8 +83,8 @@ These are the project(s) created chronologically:<br>
 ### These are the technologies and tools I am currently exploring and playing with:<br>
 
 <table>
-   <tr colspan="3">
-      <td><b>Technologies Under Exploration...</b></td>
+   <tr colspan="5">
+      <td><b>Work In Progress...</b></td>
    </tr>
    <tr>
       <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Laravel Inertia"></td>

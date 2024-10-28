@@ -5,7 +5,7 @@
       --cb: #ffffff0a; /* Light background overlay (slightly transparent) */
       --cs: #0366d6;   /* Accent color (GitHub blue) */
       --ce: #f6f8fa;   /* Base background color */
-      --c0: #b8bec7;   /* Default/empty contributions (light background) */
+      --c0: #434b56;   /* Default/empty contributions (light background) */
       --c1: #e6f4ea;   /* Low contributions (very light green) */
       --c2: #b6e8c6;   /* Medium-low contributions (light green) */
       --c3: #66cc8a;   /* Medium contributions (medium green) */

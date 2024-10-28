@@ -1,25 +1,40 @@
+<div align="center">
+<h1>Jheizon Brhylle Dela Cruz</h1>
+   <h2> 🙋🏻‍♂️ Introduction</h2>
 
-# _Jheizon Brhylle Dela Cruz_
-## 🙋🏻‍♂️ Introduction
-Hi, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these fields as of this writing:
-<br>
-<ul>
-   <li>Fullstack Development</li>
-   <li>Machine Learning Enthusiast</li>
-   <li>Graphic Communication / Design</li>
-</ul>
+   <p>Hi, I am an <b><i>Aspiring Fullstack Developer</i></b> and <b><i>Software Engineer</i></b>! I am currently treading the following fields as of this writing:</p>
+   
+   <br>
+   <div align="center">
+      <p>Fullstack Development</p>
+      <p>Machine Learning Enthusiast</p>
+      <p>Graphic Communication / Design</p>
+   </div>
+   
+
+   
+
+
 ---
 
 ## 🏆 Git Achievements & Stats
-These are the _**accumulative achievements**_ by contributing to _open-sourced repositories_.<br>
-![Trophy](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=light)
 
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&bg_color=00000000)
+<p>These are<i><b> the achievements and statistics accumulated over time</b></i> by contributing to open-sourced repositories.</p><br>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Brhylle&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brhylle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🔭 Projects
+
 These are the project(s) created chronologically:<br>
+
 <table>
    <th colspan=2>Project Showcase</th>
    <tr>
@@ -46,13 +61,16 @@ These are the project(s) created chronologically:<br>
 ---
 
 ## 🌱 Explore
+
 ### These are the technologies and tools I am currently exploring and playing with:<br>
 
 ---
 
 ## 🏗️ Tech Stack/Toolkit
+
 ### These are the technologies and tools I have used over the years of my programming career.<br>
-<!-- Frontend --> 
+
+<!-- Frontend -->
 <table style="width: 100%; margin-bottom: 20px; border-collapse: collapse; border: none;">
    <tr>
       <td colspan="6" style="text-align: center;"><b><i>Frontend</i></b></td>
@@ -75,7 +93,7 @@ These are the project(s) created chronologically:<br>
    </tr>
 </table>
 
-<!-- Backend --> 
+<!-- Backend -->
 <table style="width: 100%; margin-bottom: 20px;">
    <tr>
       <td colspan="3" style="text-align: center;"><b><i>Backend</i></b></td>
@@ -91,7 +109,7 @@ These are the project(s) created chronologically:<br>
    </tr>
 </table>
 
-<!-- Build Tools --> 
+<!-- Build Tools -->
 <table style="width: 100%; margin-bottom: 20px;">
    <tr>
       <td colspan="2" style="text-align: center;"><b><i>Build Tools</i></b></td>
@@ -108,7 +126,7 @@ These are the project(s) created chronologically:<br>
    </tr>
 </table>
 
-<!-- UI/UX Design --> 
+<!-- UI/UX Design -->
 <table style="width: 100%; margin-bottom: 20px;">
    <tr>
       <td colspan="2" style="text-align: center;"><b><i>UI/UX Design</i></b></td>
@@ -181,4 +199,6 @@ These are the project(s) created chronologically:<br>
 </table>
 
 ## 📲 Connect With Me!<br>
+
 ### You have a great idea? Let's talk about it! Below are my active social media accounts and any means of communications.
+</div>

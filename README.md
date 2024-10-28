@@ -155,6 +155,8 @@ These are the project(s) created chronologically:<br>
    </tr>
 </table>
 
+---
+
 ## 📲 Connect With Me!<br>
 
 ### You have a great idea? Let's talk about it! Below are my active social media accounts and any means of communications.

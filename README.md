@@ -11,13 +11,13 @@ Hi, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am c
 ---
 
 ## 🏆 Git Achievements
-These are the _**accumulative achievements**_ by contributing to _open-sourced repositories_.
+These are the _**accumulative achievements**_ by contributing to _open-sourced repositories_.<br>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=light)
 
 ---
 
 ## 🔭 Projects
-These are my ongoing project(s):
+These are my ongoing project(s):<br>
 <table>
    <th colspan=1>Ongoing Projects</th>
    <tr>
@@ -27,15 +27,16 @@ These are my ongoing project(s):
       <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png"></a></td>
    </tr>
 </table>
+
 ---
 
 ## 🌱 Explore
-### These are the technologies and tools I am currently exploring and playing with:
+### These are the technologies and tools I am currently exploring and playing with:<br>
 
 ---
 
 ## 🏗️ Tech Stack/Toolkit
-
+### These are the technologies and tools I have used over the years of my programming career.<br>
 <!-- Frontend --> 
 <table style="width: 100%; margin-bottom: 20px; border-collapse: collapse; border: none;">
    <tr>
@@ -164,8 +165,5 @@ These are my ongoing project(s):
    </tr>
 </table>
 
-
-
-
-## 📲 Connect With Me!
-
+## 📲 Connect With Me!<br>
+### You have a great idea? Let's talk about it! Below are my active social media accounts and any means of communications.

@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 👋 Jheizon Brhylle Dela Cruz</h1>
-   <h2> 🙋🏻‍♂️ Introduction</h2>
+   <h2> 🙋🏻‍♂️ Introduction 📜</h2>
 
    <p>Hi, I am an <b><i>Aspiring Fullstack Developer</i></b> and <b><i>Software Engineer</i></b>! I am currently treading the following fields as of this writing:</p>
    
@@ -13,7 +13,7 @@
    
 ---
 
-## 🏆 Git Achievements & Stats
+## 🏆 Git Achievements & Stats 🎖️
 
 <p>These are <i><b>the achievements and statistics accumulated over time</b></i> by contributing to open-sourced repositories.</p><br>
 
@@ -48,13 +48,13 @@
 
 ---
 
-## Contributions
+## 🌱 Contributions 🤝
 ![GitHub Snake Light](https://raw.githubusercontent.com/Brhylle/snake-eating-contribs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Brhylle/snake-eating-contribs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
-## 🔭 Projects
+## 🏗️ Projects 📂
 
 These are the project(s) created chronologically:<br>
 
@@ -83,7 +83,7 @@ These are the project(s) created chronologically:<br>
 
 ---
 
-## 🌱 Explore
+## 🗺️ Explore 🔭
 
 ### These are the technologies and tools I am currently exploring and playing with:<br>
 
@@ -102,7 +102,7 @@ These are the project(s) created chronologically:<br>
 
 ---
 
-## 🏗️ Tech Stack/Toolkit
+## 💻 Tech Stack/Toolkit 🛠️
 
 ### These are the technologies and tools I have used over the years of my programming career.<br>
 
@@ -162,7 +162,7 @@ These are the project(s) created chronologically:<br>
 
 ---
 
-## 📲 Connect With Me!<br>
+## 📲 Connect With Me! 🔗<br>
 
 ### You have a great idea? Let's talk about it! Below are my active social media accounts and any means of communications.
 </div>

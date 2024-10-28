@@ -2,19 +2,17 @@
 
 Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am currently treading on these roles:
 <ol>
-   <li>Fullstack Developer</li>
+   <li><b>Fullstack Developer</b></li>
    <ol>
-      <li>Frontend Developer</li>
+      <li><i>Frontend Developer</i></li>
          <ol>
             <li>User Interface Development</li>
             <li>User Experience Development</li>
          </ol>
-      <li>Backend Developer</li>
-         <ol>
-            <li></li>
-         </ol>
+      <li><i>Backend Developer</i></li>
    </ol>
-   <li>Machine Learning Enthusiast</li>
+   <li><b>Machine Learning Enthusiast</b></li>
+   <li><b>Graphic Designer</b></li>
    
 </ol>
 

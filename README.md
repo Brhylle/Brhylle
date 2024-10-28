@@ -1,3 +1,14 @@
+<div align="right">
+   
+   [![GitHub Stars](https://img.shields.io/badge/Stars-50-yellow?style=for-the-badge&logo=stars)](https://github.com/your-profile?tab=stars) 
+   [![GitHub Forks](https://img.shields.io/badge/Forks-10-orange?style=for-the-badge&logo=github)](https://github.com/your-profile?tab=forks)    
+   [![GitHub Followers](https://img.shields.io/badge/Followers-250-blue?style=for-the-badge&logo=github)](https://github.com/your-profile/followers) 
+   [![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen?style=for-the-badge)](https://github.com/your-profile) 
+   
+</div>
+
+<br><br>
+
 <div align="center">
 <h1> 👋 Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction 📜</h2>
@@ -164,6 +175,9 @@ These are the project(s) created chronologically:<br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" width="65" alt="fedora"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" width="65" alt="linux"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="65" alt="docker"></td>
+      <td><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="65" alt="vercel"></td>
+      <td><img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-vn9f0x8q.png" width="65" alt="netlify"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="65" alt="arduino"></td>
       
    </tr>
 </table>

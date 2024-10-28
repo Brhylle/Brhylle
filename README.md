@@ -124,12 +124,20 @@ These are the project(s) created chronologically:<br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="65" alt="OpenCV"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="65" alt="JSON"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="65" alt="Jupyter"></td>
-      <td><img src="https://python.land/wp-content/uploads/2020/12/pillow-logo-jpg" width="65" alt="Pillow"></td>
+      <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="65" alt="Pillow"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="65" alt="SciPy"></td>
       <td><img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" width="65" alt="Albumentations"></td>
       <td><img src="https://storage.googleapis.com/replit/images/1675080489213_1f91e511448068519f8f1b092d37f0d2.png" width="65" alt="Roboflow"></td>
       <td><img src="https://avatars.githubusercontent.com/u/68520887?v=4" width="65" alt="tqdm"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Fastai_logo.png" width="65" alt="fastai"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="65" alt="cpp"></td>
+      <td><img src="https://www.cdnlogo.com/logos/j/2/java.svg" width="65" alt="java"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="65" alt="python"></td>
+      <td><img src="https://www.pngfind.com/pngs/m/104-1044449_python-logo-clipart-drawing-flask-python-hd-png.png" width="65" alt="flask"></td>
+   </tr>
+   <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" width="65" alt="fedora"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" width="65" alt="linux"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="65" alt="docker"></td>
    </tr>
 </table>
 

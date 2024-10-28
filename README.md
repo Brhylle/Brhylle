@@ -12,27 +12,26 @@ Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**!
 <!-- Frontend --> 
 <table style="width: 100%; margin-bottom: 20px;">
    <tr>
-      <td colspan="3" style="text-align: center;"><b><i>Frontend</i></b></td>
+      <td colspan="6" style="text-align: center;"><b><i>Frontend</i></b></td>
    </tr>
    <tr>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://vuejs.org/images/logo.png" width="100" alt="vue.js"> </td>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://mwop.net/images/tailwindcss.svg" width="100" alt="tailwindcssui"> </td>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" width="100" alt="daisyui"> </td>
-   </tr>
-   <tr>
-      <td style="text-align: center; vertical-align: middle;">VueJS</td>
-      <td style="text-align: center; vertical-align: middle;">TailwindCSS</td>
-      <td style="text-align: center; vertical-align: middle;">DaisyUI</td>
-   </tr>
-   <tr>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="100" alt="html"> </td>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" width="100" alt="css"> </td>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://bc.team/wp-content/uploads/2019/06/Javascript.png" width="100" alt="js"> </td>
    </tr>
    <tr>
+      <td style="text-align: center; vertical-align: middle;">VueJS</td>
+      <td style="text-align: center; vertical-align: middle;">TailwindCSS</td>
+      <td style="text-align: center; vertical-align: middle;">DaisyUI</td>
       <td style="text-align: center; vertical-align: middle;">HTML</td>
       <td style="text-align: center; vertical-align: middle;">CSS</td>
       <td style="text-align: center; vertical-align: middle;">Javascript</td>
+   </tr>
+   <tr>
+
    </tr>
 </table>
 <!-- Backend --> 
@@ -43,6 +42,8 @@ Hi 👋, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**!
    <tr>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100" alt="php"> </td>
       <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="100" alt="laravel"> </td>
+      <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png" width="100" alt="laravel"> </td>
+   
    </tr>
    <tr>
       <td style="text-align: center; vertical-align: middle;">PHP</td>

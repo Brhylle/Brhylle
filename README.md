@@ -29,15 +29,15 @@ These are the project(s) created chronologically:<br>
       <td><a href="https://github.com/Brhylle/chuupurple"><img src="https://github.com/Brhylle/chuupurple/blob/master/src/assets/public/chuupurple-social-prev-full.png" width="100%" alt="chuupurple_social_prev"></a></td>
    </tr>
    
-   <tr><td></td></tr>
+   <tr colspan=2><td></td></tr>
    
    <tr>
       <td>BooksForLess</td>
-      <td>Simple Student System</td>
+      <td>CPU Scheduling Calculator</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="100%" alt="aquagrade_social_prev"></a></td>
-      <td><a href="https://github.com/Brhylle/chuupurple"><img src="https://github.com/Brhylle/chuupurple/blob/master/src/assets/public/chuupurple-social-prev-full.png" width="100%" alt="chuupurple_social_prev"></a></td>
+      <td><a href="https://github.com/Brhylle/BooksForLess"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="100%" alt="aquagrade_social_prev"></a></td>
+      <td><a href="https://github.com/Brhylle/CpuSchedulingCalculator"><img src="https://github.com/Brhylle/chuupurple/blob/master/src/assets/public/chuupurple-social-prev-full.png" width="100%" alt="cpu_scheduling_calc_social_prev"></a></td>
    </tr>
 </table>
 

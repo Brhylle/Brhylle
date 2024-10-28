@@ -49,8 +49,12 @@
 ---
 
 ## 🌱 Contributions 🤝
-![GitHub Snake Light](https://raw.githubusercontent.com/Brhylle/snake-eating-contribs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Brhylle/snake-eating-contribs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source srcset="https://github.com/Brhylle/Brhylle/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/Brhylle/Brhylle/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
+  <img src="https://github.com/Brhylle/Brhylle/blob/output/github-snake.svg" alt="GitHub Snake" style="width:100%; max-width:600px;">
+</picture>
+
 
 ---
 

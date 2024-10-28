@@ -10,6 +10,7 @@
       --c2: #85c3a2;   /* Medium-low contributions (mid-light green) */
       --c3: #4da54d;   /* Medium contributions (darker medium green) */
       --c4: #2b8a3a;   /* High contributions (darker vibrant green) */
+      --snake-color: #000000; /* Snake color set to black */
     }
 
     .c {

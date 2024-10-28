@@ -17,14 +17,15 @@ These are the _**accumulative achievements**_ by contributing to _open-sourced r
 ---
 
 ## 🔭 Projects
-These are my ongoing project(s):<br>
+These are my project(s) created chronologically:<br>
 <table>
-   <th colspan=1>Ongoing Projects</th>
+   <th colspan=0>Project Showcase</th>
    <tr>
       <td>AquaGrade AI</td>
+      <td>Data Finished:</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png"></a></td>
+      <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="50%" alt="aquagrade_social_prev"></a></td>
    </tr>
 </table>
 

@@ -1,9 +1,10 @@
-<div align="right">
+<div align="center">
    
-   [![GitHub Stars](https://img.shields.io/badge/Stars-50-yellow?style=for-the-badge&logo=stars)](https://github.com/your-profile?tab=stars) 
-   [![GitHub Forks](https://img.shields.io/badge/Forks-10-orange?style=for-the-badge&logo=github)](https://github.com/your-profile?tab=forks)    
-   [![GitHub Followers](https://img.shields.io/badge/Followers-250-blue?style=for-the-badge&logo=github)](https://github.com/your-profile/followers) 
    [![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen?style=for-the-badge)](https://github.com/your-profile) 
+   [![GitHub Followers](https://img.shields.io/badge/Followers-250-blue?style=for-the-badge&logo=github)](https://github.com/your-profile/followers)
+   [![GitHub Stars](https://img.shields.io/badge/Stars-50-yellow?style=for-the-badge&logo=stars)](https://github.com/your-profile?tab=stars)
+   [![GitHub Forks](https://img.shields.io/badge/Forks-10-orange?style=for-the-badge&logo=github)](https://github.com/your-profile?tab=forks)    
+
    
 </div>
 

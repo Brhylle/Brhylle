@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a93bff05-1ecf-4919-b4dc-1eb822d0a1cb)![image](https://github.com/user-attachments/assets/e2761fa1-2303-4fcb-8be1-5e8c8cca2fa8)<div align="center">
 <h1>Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction</h2>
 

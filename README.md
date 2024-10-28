@@ -19,8 +19,8 @@
 
 <!-- GitHub Trophies -->
 <picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=darkhub" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=flat" media="(prefers-color-scheme: light)">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=gruvbox_light" media="(prefers-color-scheme: light)">
   <img src="https://github-profile-trophy.vercel.app/?username=Brhylle&theme=flat" alt="GitHub Trophies">
 </picture>
 

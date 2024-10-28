@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/a93bff05-1ecf-4919-b4dc-1eb822d0a1cb)![image](https://github.com/user-attachments/assets/e2761fa1-2303-4fcb-8be1-5e8c8cca2fa8)<div align="center">
 <h1>Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction</h2>
 
@@ -108,30 +108,28 @@ These are the project(s) created chronologically:<br>
 
    </tr>
    <tr>
-      <td style="text-align: center; vertical-align: middle;"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="65" alt="figma">         </td>
-      <td style="text-align: center; vertical-align: middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="65" alt="photoshopcc">
-      </td>
-      <td style="text-align: center; vertical-align: middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="65" alt="blender">
-      </td>
+      <td style="text-align: center; vertical-align: middle;"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="65" alt="figma"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="65" alt="photoshopcc"></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="65" alt="blender"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" alt="Scikit-Learn"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="65" alt="NumPy"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="65" alt="Pandas"></td>
+      <td><img src="https://static.cdnlogo.com/logos/n/81/numpy.svg" width="65" alt="NumPy"></td>
+      <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="65" alt="Pandas"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="65" alt="TensorFlow"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="65" alt="PyTorch"></td>
+      <td><img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="65" alt="PyTorch"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="65" alt="Matplotlib"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="65" alt="Keras"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="65" alt="XGBoost"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Seaborn_logo.svg" width="65" alt="Seaborn"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/2226px-Official_YAML_Logo.svg.png" width="65" alt="YAML"></td>
+      <td><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="65" alt="Seaborn"></td>
    </tr>
    <tr>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="65" alt="OpenCV"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Lightgbm.svg" width="65" alt="LightGBM"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="65" alt="JSON"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="65" alt="Jupyter"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" width="65" alt="NLTK"></td>
+      <td><img src="https://python.land/wp-content/uploads/2020/12/pillow-logo-jpg" width="65" alt="Pillow"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="65" alt="SciPy"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Theano_logo.png" width="65" alt="Theano"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Catboost-logo.png" width="65" alt="CatBoost"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly-logo-01-square.png" width="65" alt="Plotly"></td>
+      <td><img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" width="65" alt="Albumentations"></td>
+      <td><img src="https://storage.googleapis.com/replit/images/1675080489213_1f91e511448068519f8f1b092d37f0d2.png" width="65" alt="Roboflow"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/68520887?v=4" width="65" alt="tqdm"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Fastai_logo.png" width="65" alt="fastai"></td>
    </tr>
 </table>

@@ -10,10 +10,12 @@ Hi, I am an _**Aspiring Fullstack Developer**_ and **Software Engineer**! I am c
 </ul>
 ---
 
-## 🏆 Git Achievements
+## 🏆 Git Achievements & Stats
 These are the _**accumulative achievements**_ by contributing to _open-sourced repositories_.<br>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=light)
 
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brhylle&show_icons=true&bg_color=00000000)
 ---
 
 ## 🔭 Projects

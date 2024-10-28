@@ -11,13 +11,7 @@
       <p>Graphic Communication / Design</p>
    </div>
    
-
-   
-
-
 ---
-
-## 🏆 Git Achievements & Stats
 
 ## 🏆 Git Achievements & Stats
 

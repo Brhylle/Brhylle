@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Jheizon Brhylle Dela Cruz</h1>
+<h1> 👋 Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction</h2>
 
    <p>Hi, I am an <b><i>Aspiring Fullstack Developer</i></b> and <b><i>Software Engineer</i></b>! I am currently treading the following fields as of this writing:</p>
@@ -83,8 +83,8 @@ These are the project(s) created chronologically:<br>
 ### These are the technologies and tools I am currently exploring and playing with:<br>
 
 <table>
-   <tr colspan="5">
-      <td><b>Work In Progress...</b></td>
+   <tr>
+      <td colspan="5" align="center"><b><i>Work In Progress...</i></b></td>
    </tr>
    <tr>
       <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Laravel Inertia"></td>

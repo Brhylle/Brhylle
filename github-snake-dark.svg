@@ -2,14 +2,14 @@
   <desc>Generated with https://github.com/Platane/snk</desc>
   <style>
     :root {
-      --cb: #1b1f230a;
-      --cs: purple;
-      --ce: #161b22;
-      --c0: #161b22;
-      --c1: #01311f;
-      --c2: #034525;
-      --c3: #0f6d31;
-      --c4: #00c647
+      --cb: #22272e0a; /* Light background overlay (slightly transparent) */
+      --cs: #539bf5;   /* Accent color (used for highlights or snake head) */
+      --ce: #2d333b;   /* Base background color */
+      --c0: #2d333b;   /* Default/empty contributions */
+      --c1: #003820;   /* Low contributions (dark green with blue undertones) */
+      --c2: #005b30;   /* Medium-low contributions (green with a dimmed effect) */
+      --c3: #238636;   /* Medium contributions (bright green from Dark Dimmed) */
+      --c4: #6bc46d;   /* High contributions (soft, vibrant green) */
     }
 
     .c {

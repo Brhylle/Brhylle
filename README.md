@@ -17,7 +17,7 @@ These are the _**accumulative achievements**_ by contributing to _open-sourced r
 ---
 
 ## 🔭 Projects
-These are my project(s) created chronologically:<br>
+These are the project(s) created chronologically:<br>
 <table>
    <th colspan=0>Project Showcase</th>
    <tr>

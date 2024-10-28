@@ -21,7 +21,6 @@
 
 <p>These are<i><b> the achievements and statistics accumulated over time</b></i> by contributing to open-sourced repositories.</p><br>
 
-### 🌙 Dark Mode
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brhylle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Brhylle&theme=dark&hide_border=true)](https://git.io/streak-stats)

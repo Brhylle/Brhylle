@@ -63,6 +63,9 @@
 ## 🌱 Contributions 🤝
 <p><b>Contributions</b> which <b><i>spans a year.</i></b></p>
 
+[![Repos Badge](https://badges.pufler.dev/repos/Brhylle)](https://github.com/Brhylle?tab=repositories)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/Brhylle/Brhylle.svg)](https://github.com/Brhylle/Brhylle/commits/)
+
 <picture>
   <source srcset="https://github.com/Brhylle/Brhylle/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="https://github.com/Brhylle/Brhylle/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
@@ -103,7 +106,7 @@ These are the project(s) created chronologically:<br>
 
 ## 🗺️ Explore 🔭
 
-### These are the technologies and tools I am currently exploring and playing with:<br>
+<p>These are the <b></b>technologies and tools I am currently exploring and playing with:<br>
 
 <table>
    <tr>

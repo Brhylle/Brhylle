@@ -106,6 +106,8 @@ These are the <b>project(s) created chronologically:</b><br>
 
 ## 🗺️ Explore 🔭
 
+<br>
+
 <p>These are the <b></b>technologies and tools I am currently exploring and playing with:<br>
 
 <table>
@@ -121,6 +123,8 @@ These are the <b>project(s) created chronologically:</b><br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" width="65" alt="Typescript"></td>
    </tr>
 </table>
+
+<br>
 
 ---
 

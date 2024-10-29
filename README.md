@@ -102,6 +102,10 @@ These are the <b>project(s) created chronologically:</b><br>
    </tr>
 </table>
 
+<br>
+<p>You can <b><i>click over</i></b> the thumbnails, it will redirect you to the repository.</p>
+<br>
+
 ---
 
 ## 🗺️ Explore 🔭

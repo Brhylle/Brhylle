@@ -64,7 +64,7 @@
 <p><b>Contributions</b> which <b><i>spans a year.</i></b></p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/Brhylle)](https://github.com/Brhylle?tab=repositories)
-[![Commits Badge](https://img.shields.io/github/commit-activity/m/Brhylle/Brhylle.svg)](https://github.com/Brhylle/Brhylle/commits/)
+[![Commits Badge](https://img.shields.io/github/commit-activity/w/Brhylle/Brhylle.svg)](https://github.com/Brhylle/Brhylle/commits/)
 
 <picture>
   <source srcset="https://github.com/Brhylle/Brhylle/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
@@ -77,7 +77,7 @@
 
 ## 🏗️ Projects 📂
 
-These are the project(s) created chronologically:<br>
+These are the <b>project(s) created chronologically:</b><br>
 
 <table>
    <th colspan=2>Project Showcase</th>
@@ -126,7 +126,7 @@ These are the project(s) created chronologically:<br>
 
 ## 💻 Tech Stack/Toolkit 🛠️
 
-### These are the technologies and tools I have used over the years of my programming career.<br>
+These are the <b>technologies and tools</b> I have <i>used over the years</i> of my programming career.<br>
 
 <table width="100">
    <tr align="center">
@@ -188,9 +188,9 @@ These are the project(s) created chronologically:<br>
 
 ---
 
-## 📲 Connect With Me! 🔗<br>
+## 📲 Connect With Me! 🔗
 
-### You have a great idea? Let's talk about it! Below are my active social media accounts and any means of communications.
+<b><i>I love innovation, as much as I loved technology.</i></b> If you have some inquiries about me or any projects listed above, <i>let's talk about it!</i> Below are my <b>active social media accounts</b>and any <b>means of communications.</b>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/delacruzjheizonbrhylle)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delacruzjheizonbrhylle)
@@ -213,7 +213,7 @@ These are the project(s) created chronologically:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delacruzjheizonbrhylle)
 [![Linktree](https://img.shields.io/badge/Linktree-39C788?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gmbrhylle)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/delacruzjheizonbrhylle)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F7CB1D?style=for-the-badge&logo=Huggingface&logoColor=F79800)](https://huggingface.co/delacruzjheizonbrhylle)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F7CB1D?style=for-the-badge&logo=Huggingface&logoColor=000000)](https://huggingface.co/delacruzjheizonbrhylle)
 
 
 </div>

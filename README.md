@@ -190,7 +190,7 @@ These are the <b>technologies and tools</b> I have <i>used over the years</i> of
 
 ## 📲 Connect With Me! 🔗
 
-<b><i>I love innovation, as much as I loved technology.</i></b> If you have some inquiries about me or any projects listed above, <i>let's talk about it!</i> Below are my <b>active social media accounts</b>and any <b>means of communications.</b>
+<b><i>I love innovation, as much as I loved technology.</i></b> If you have some inquiries about me or any projects listed above, <i>let's talk about it!</i> Below are my <b>active social media accounts</b> and any <b>means of communications.</b>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/delacruzjheizonbrhylle)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delacruzjheizonbrhylle)

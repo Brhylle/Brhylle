@@ -86,7 +86,7 @@ These are the <b>project(s) created chronologically:</b><br>
       <td>ChuuPurple</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/Brhylle/AquaGrade"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="100%" alt="aquagrade_social_prev"></a></td>
+      <td><a href="https://github.com/eyronnnn/flaskapi"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="100%" alt="aquagrade_social_prev"></a></td>
       <td><a href="https://github.com/Brhylle/chuupurple"><img src="https://github.com/Brhylle/chuupurple/blob/master/src/assets/public/chuupurple-social-prev-full.png" width="100%" alt="chuupurple_social_prev"></a></td>
    </tr>
    

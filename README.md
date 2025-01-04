@@ -190,7 +190,7 @@ These are the <b>technologies and tools</b> I have <i>used over the years</i> of
       <td><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="65" alt="vercel"></td>
       <td><img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-vn9f0x8q.png" width="65" alt="netlify"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="65" alt="arduino"></td>
-      
+      <td><img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" width="65" alt="YOLO"></td>
    </tr>
 </table>
 

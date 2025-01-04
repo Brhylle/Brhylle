@@ -173,7 +173,7 @@ These are the <b>technologies and tools</b> I have <i>used over the years</i> of
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="65" alt="OpenCV"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" width="65" alt="JSON"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="65" alt="Jupyter"></td>
-      <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="65" alt="Pillow"></td>
+      <td><img src="https://python.land/wp-content/uploads/2020/12/pillow-logo-jpg.webp" width="65" alt="Pillow"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="65" alt="SciPy"></td>
       <td><img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" width="65" alt="Albumentations"></td>
       <td><img src="https://storage.googleapis.com/replit/images/1675080489213_1f91e511448068519f8f1b092d37f0d2.png" width="65" alt="Roboflow"></td>

@@ -1,11 +1,10 @@
-<div align="center">
+<div align="right">
    
-   [![Profile Views](https://komarev.com/ghpvc/?username=Brhylle&style=for-the-badge)](https://github.com/Brhylle)
-   [![GitHub Followers](https://img.shields.io/github/followers/Brhylle?style=for-the-badge)](https://github.com/Brhylle)
-   [![GitHub Stars](https://img.shields.io/github/stars/Brhylle?style=for-the-badge)](https://github.com/Brhylle?tab=stars)
-   [![GitHub Forks](https://img.shields.io/github/forks/Brhylle?style=yellow)](https://github.com/Brhylle?tab=forks)    
+[![Profile Views](https://komarev.com/ghpvc/?username=Brhylle&style=for-the-badge&color=red)](https://github.com/Brhylle)
+[![GitHub Followers](https://img.shields.io/github/followers/Brhylle?style=for-the-badge)](https://github.com/Brhylle)
+[![GitHub Stars](https://img.shields.io/github/stars/Brhylle?style=for-the-badge&color=gold)](https://github.com/Brhylle?tab=stars)
 
-   
+
 </div>
 
 <br><br>

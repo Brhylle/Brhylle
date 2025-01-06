@@ -2,8 +2,8 @@
    
    [![Profile Views](https://komarev.com/ghpvc/?username=Brhylle&style=for-the-badge)](https://github.com/Brhylle)
    [![GitHub Followers](https://img.shields.io/github/followers/Brhylle?style=for-the-badge)](https://github.com/Brhylle)
-   [![GitHub Stars](https://img.shields.io/badge/Stars-50-yellow?style=for-the-badge&logo=stars)](https://github.com/Brhylle?tab=stars)
-   [![GitHub Forks](https://img.shields.io/badge/Forks-10-orange?style=for-the-badge&logo=github)](https://github.com/Brhylle?tab=forks)    
+   [![GitHub Stars](https://img.shields.io/github/stars/Brhylle?style=for-the-badge)](https://github.com/Brhylle?tab=stars)
+   [![GitHub Forks](https://img.shields.io/github/forks/Brhylle?style=for-the-badge)](https://github.com/Brhylle?tab=forks)    
 
    
 </div>

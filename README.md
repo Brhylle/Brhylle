@@ -124,6 +124,7 @@ These are the <b>project(s) created chronologically:</b><br>
       <td><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="65" alt="Next.js"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" width="65" alt="Nuxt.js"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" width="65" alt="Typescript"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" width="65" alt="Vim"></td>
    </tr>
 </table>
 

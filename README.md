@@ -115,7 +115,7 @@ These are the <b>project(s) created chronologically:</b><br>
 
 <table>
    <tr>
-      <td colspan="6" align="center"><b>Work In Progress...</b></td>
+      <td colspan="7" align="center"><b>Work In Progress...</b></td>
    </tr>
    <tr>
       <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Laravel Inertia"></td>
@@ -202,26 +202,14 @@ These are the <b>technologies and tools</b> I have <i>used over the years</i> of
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/delacruzjheizonbrhylle)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delacruzjheizonbrhylle)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/delacruzjheizonbrhylle)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@delacruzjheizonbrhylle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/delacruzjheizonbrhylle)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/delacruzjheizonbrhylle)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-code)
-
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.threads.net/@delacruzjheizonbrhylle)
 [![Viber](https://img.shields.io/badge/Viber-665DFF?style=for-the-badge&logo=viber&logoColor=white)](https://viber.com/delacruzjheizonbrhylle)
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/@delacruzjheizonbrhylle)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+639939270175)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delacruzjheizonbrhylle)
-
-
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emperador.jheizonbrhylle@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delacruzjheizonbrhylle)
 [![Linktree](https://img.shields.io/badge/Linktree-39C788?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gmbrhylle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/delacruzjheizonbrhylle)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F7CB1D?style=for-the-badge&logo=Huggingface&logoColor=000000)](https://huggingface.co/delacruzjheizonbrhylle)
 
 
 </div>

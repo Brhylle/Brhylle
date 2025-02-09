@@ -92,11 +92,11 @@ These are the <b>project(s) created chronologically:</b><br>
    <tr colspan=2><td></td></tr>
    
    <tr>
-      <td>BooksForLess</td>
-      <td>CPU Scheduling Calculator</td>
+      <td>Astralis</td>
+      <td>ChuuPurple Sr.: CPU Scheduling Calculator</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/Brhylle/BooksForLess"><img src="https://github.com/Brhylle/Brhylle/blob/main/assets/repository-open-graph-template.png" width="100%" alt="aquagrade_social_prev"></a></td>
+      <td><a href="figma_link"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/462570195_8743841912409211_7964903429601673797_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nQFzZkJxcgQ7kNvgHIVDN3&_nc_oc=Adhu5V8g6sQ0b4b4h_pQlYPSAhoSc9aDfo3MRkMXEvPg7KH7u9x2yLhrOOjE-fHMgnA&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&oh=03_Q7cD1gHUjmDuccMzEBTgL4c3SBLn5E_rHQ-1B2t2euotf0MRpw&oe=67D02101" width="100%" alt="aquagrade_social_prev"></a></td>
       <td><a href="https://github.com/Brhylle/CpuSchedulingCalculator"><img src="https://github.com/Brhylle/Brhylle/blob/main/assets/repository-open-graph-template.png" width="100%" alt="cpu_scheduling_calc_social_prev"></a></td>
    </tr>
 </table>

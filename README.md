@@ -18,7 +18,7 @@
    <br>
    <div align="center">
       <p>Fullstack Development</p>
-      <p>Machine Learning Enthusiast</p>
+      <p>Machine Learning Engineer</p>
       <p>Graphic Communication / Design</p>
    </div>
    

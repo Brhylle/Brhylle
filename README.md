@@ -213,7 +213,7 @@ These are the <b>technologies and tools</b> I have <i>used over the years</i> of
 [![Viber](https://img.shields.io/badge/Viber-665DFF?style=for-the-badge&logo=viber&logoColor=white)](https://viber.com/delacruzjheizonbrhylle)
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/@delacruzjheizonbrhylle)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+639939270175)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delacruzjheizonbrhylle)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gmbrhylle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmjheizon027@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delacruzjheizonbrhylle)
 [![Linktree](https://img.shields.io/badge/Linktree-39C788?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gmbrhylle)

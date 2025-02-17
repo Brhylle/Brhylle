@@ -96,7 +96,7 @@ These are the <b>project(s) created chronologically:</b><br>
       <td>ChuuPurple Sr.: CPU Scheduling Calculator</td>
    </tr>
    <tr>
-      <td><a href="https://www.figma.com/design/Ul3Fe4EChD0J66c051OuMT/HIC?node-id=0-1&t=ERqosqheOMmuXbWU-1"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/462570195_8743841912409211_7964903429601673797_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nQFzZkJxcgQ7kNvgHIVDN3&_nc_oc=Adhu5V8g6sQ0b4b4h_pQlYPSAhoSc9aDfo3MRkMXEvPg7KH7u9x2yLhrOOjE-fHMgnA&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&oh=03_Q7cD1gHUjmDuccMzEBTgL4c3SBLn5E_rHQ-1B2t2euotf0MRpw&oe=67D02101" width="100%" alt="chuupurplesr_social_prev"></a></td>
+      <td><a href="https://www.figma.com/design/Ul3Fe4EChD0J66c051OuMT/HIC?node-id=0-1&t=ERqosqheOMmuXbWU-1"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/462570195_8743841912409211_7964903429601673797_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nQFzZkJxcgQ7kNvgHIVDN3&_nc_oc=Adhu5V8g6sQ0b4b4h_pQlYPSAhoSc9aDfo3MRkMXEvPg7KH7u9x2yLhrOOjE-fHMgnA&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&oh=03_Q7cD1gHUjmDuccMzEBTgL4c3SBLn5E_rHQ-1B2t2euotf0MRpw&oe=67D02101" width="100%" alt="astralis_social_prev"></a></td>
       <td><a href="https://github.com/Brhylle/CpuSchedulingCalculator"><img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t1.15752-9/475914499_1270910987355234_1583111546192950286_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=6zyjSYPNwnQQ7kNvgHqtSa5&_nc_oc=Adjnqfy3mo7lIT7qeNLh5uTNwk0S4Y_QQCavkNJ5c6-kGRr8AKr_FsonIKi5b6hEiFQ&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&oh=03_Q7cD1gEOHHYHJqCnPE-7jyGuWsw4dwO2N-RgvutBwbdCciBBgA&oe=67D01DBC" width="100%" alt="cpu_scheduling_calc_social_prev"></a></td>
    </tr>
       <tr>

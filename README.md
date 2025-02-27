@@ -121,7 +121,7 @@ These are the <b>project(s) created chronologically:</b><br>
 
 <table>
    <tr>
-      <td colspan="7" align="center"><b>Work In Progress...</b></td>
+      <td colspan="15" align="center"><b>Work In Progress...</b></td>
    </tr>
    <tr>
       <td><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="65" alt="Laravel Inertia"></td>

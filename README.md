@@ -132,6 +132,7 @@ These are the <b>project(s) created chronologically:</b><br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" width="65" alt="Vim"></td>
       <td><img src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" width="65" alt="Framer"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="65" alt="Adobe Illustrator"></td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Dthl_XgdTNq-e5FNZ-k45Uy9rFJIRf903w&s" width="65" alt="Aceternity UI"></td>
    </tr>
 </table>
 

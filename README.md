@@ -131,6 +131,7 @@ These are the <b>project(s) created chronologically:</b><br>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" width="65" alt="Nuxt.js"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" width="65" alt="Typescript"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" width="65" alt="Vim"></td>
+      <td><img src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" width="65" alt="Framer"></td>
    </tr>
    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="65" alt="Adobe Illustrator"></td>
 </table>

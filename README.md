@@ -128,12 +128,11 @@ These are the <b>project(s) created chronologically:</b><br>
       <td><img src="https://avatars.githubusercontent.com/u/139895814?v=4&s=400" width="65" alt="Shadcn"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65" alt="ReactJS"></td>
       <td><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="65" alt="Next.js"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" width="65" alt="Nuxt.js"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" width="65" alt="Typescript"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" width="65" alt="Vim"></td>
       <td><img src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" width="65" alt="Framer"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="65" alt="Adobe Illustrator"></td>
    </tr>
-   <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="65" alt="Adobe Illustrator"></td>
 </table>
 
 <br>

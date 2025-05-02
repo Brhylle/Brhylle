@@ -13,13 +13,14 @@
 <h1> 👋 Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction 📜</h2>
 
-   <p>Hi, I am an <b><i>Aspiring Fullstack Developer</i></b> and <b><i>Software Engineer</i></b>! I am currently treading the following fields as of this writing:</p>
+   <p>Hi, I am an <b><i>Aspiring Fullstack Web3 Developer</i></b>, <b><i>Software Engineer</i></b>! I am currently expanding my knowledge about the following fields as of this writing:</p>
    
    <br>
    <div align="center">
-      <p>Fullstack Development</p>
+      <p>Fullstack Web Development</p>
       <p>Machine Learning Engineer</p>
       <p>Graphic Communication / Design</p>
+      <p>Project Management</p>
    </div>
    
 ---

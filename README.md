@@ -20,8 +20,6 @@
       <p>Fullstack Web Development</p>
       <p>Machine Learning Engineer</p>
       <p>Graphic Communication / Design</p>
-      <p>Project Management</p>
-      <p>DevOps</p>
    </div>
    
 ---

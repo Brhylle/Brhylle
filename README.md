@@ -13,7 +13,7 @@
 <h1> 👋 Jheizon Brhylle Dela Cruz</h1>
    <h2> 🙋🏻‍♂️ Introduction 📜</h2>
 
-   <p>Hi, I am a<b><i> Fullstack Web Developer</i></b> and<b><i> Software Engineer</i></b>! I am currently expanding my knowledge about the following fields as of this writing:</p>
+   <p>Hi, I am a<b><i> Fullstack Web Developer</i></b> and<b><i> Software Engineer</i></b>! I am actively expanding my knowledge about the following fields as of this writing:</p>
    
    <br>
    <div align="center">

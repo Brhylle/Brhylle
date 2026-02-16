@@ -74,49 +74,6 @@
 
 ---
 
-## 🏗️ Projects 📂
-
-These are the <b>project(s) created chronologically:</b><br>
-
-<table>
-   <th colspan=2>Project Showcase</th>
-   <tr>
-      <td>AquaGrade AI</td>
-      <td>ChuuPurple</td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/eyronnnn/flaskapi"><img src="https://github.com/Brhylle/AquaGrade/blob/80f8d9f0375b5e931305f07f4676588562d54fdd/src/frontend/src/assets/aquagrade-social-prev-1.png" width="100%" alt="aquagrade_social_prev"></a></td>
-      <td><a href="https://github.com/Brhylle/chuupurple"><img src="https://github.com/Brhylle/chuupurple/blob/master/src/assets/public/chuupurple-social-prev-full.png" width="100%" alt="chuupurple_social_prev"></a></td>
-   </tr>
-   
-   <tr colspan=2><td></td></tr>
-   
-   <tr>
-      <td>Astralis</td>
-      <td>ChuuPurple Sr.: CPU Scheduling Calculator</td>
-   </tr>
-   <tr>
-      <td><a href="https://www.figma.com/design/Ul3Fe4EChD0J66c051OuMT/HIC?node-id=0-1&t=ERqosqheOMmuXbWU-1"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/462570195_8743841912409211_7964903429601673797_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9nQFzZkJxcgQ7kNvgHIVDN3&_nc_oc=Adhu5V8g6sQ0b4b4h_pQlYPSAhoSc9aDfo3MRkMXEvPg7KH7u9x2yLhrOOjE-fHMgnA&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&oh=03_Q7cD1gHUjmDuccMzEBTgL4c3SBLn5E_rHQ-1B2t2euotf0MRpw&oe=67D02101" width="100%" alt="astralis_social_prev"></a></td>
-      <td><a href="https://github.com/Brhylle/CpuSchedulingCalculator"><img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t1.15752-9/475914499_1270910987355234_1583111546192950286_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=6zyjSYPNwnQQ7kNvgHqtSa5&_nc_oc=Adjnqfy3mo7lIT7qeNLh5uTNwk0S4Y_QQCavkNJ5c6-kGRr8AKr_FsonIKi5b6hEiFQ&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&oh=03_Q7cD1gEOHHYHJqCnPE-7jyGuWsw4dwO2N-RgvutBwbdCciBBgA&oe=67D01DBC" width="100%" alt="cpu_scheduling_calc_social_prev"></a></td>
-   </tr>
-      <tr>
-      <td>BitGyeol 빗결</td>
-      <td>gm.dev_pf</td>
-   </tr>
-   <tr>
-      <td><a href=""><img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/462565262_891549483137570_3485851255182545350_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NyBW3CyL6FQQ7kNvgEWP_H_&_nc_oc=Adh8ASqKaQEXJ9C8td9j1WcLlUdW_UafjFo9H-C46FFaI2vUIJCpyeGMZ28C0DdE6O0&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&oh=03_Q7cD1gEcnnNTjJJWTzJes2gc1qupJwo33qW11SORPq5zi_rCEQ&oe=67D00EC1" width="100%" alt="bitgyeol_social_prev"></a></td>
-      <td>
-         <a href="github_link"><img src="https://scontent.fmnl17-7.fna.fbcdn.net/v/t1.15752-9/480800705_3095289403960557_6642655970536310938_n.png?stp=dst-png_s720x720&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeG-vC5OKbGIQthdaATwdQ39YsgaBuX_BVRiyBoG5f8FVFEQHc2YOcNNkha21uaAVQcgsumUIOtbA4eenaODdGAH&_nc_ohc=-vvJ4VmS4cYQ7kNvgESaQ-g&_nc_oc=AdgsM1JZ2PAf_zWaYmfq0q1YXXbyxjZyia4FqjBPjxLZruUc3w_YIPu0nyfII06n9Dk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl17-7.fna&oh=03_Q7cD1gFtRgBV9FUqEapQ8VwTvzabsydUa-CP-LiLIan-H-sVrA&oe=67E8B13F" width="100%">
-      </td>
-   </tr>
-</table>
-
-<br>
-<p>You can <b><i>click over</i></b> the thumbnails, it will redirect you to the repository.</p>
-<br>
-
----
-
 ## 🗺️ Explore 🔭
 
 <br>
